@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Usage of `yield` and generators in Python to create a 2-way communication loop
 
 import matplotlib.pyplot as plt
 import numpy as np
 import math
-
-# PID controller for a AC heating system
 
 
 SP = 100 # setpoint (target)
